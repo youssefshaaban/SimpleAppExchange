@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PayPay</string>
+    <string name="medecine_name">Medicine name</string>
+    <string name="dose_name">Dose</string>
+    <string name="strength">Strnegth</string>
+    <string name="amount">Amount</string>
+    <string name="change">Change</string>
+    <string name="error">"This not allow for free plan only use base USD for free plan "</string>
+</resources>
